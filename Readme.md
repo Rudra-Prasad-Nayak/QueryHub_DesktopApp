@@ -12,9 +12,6 @@
   Generate, Validate, Optimize and Convert SQL Queries without memorizing syntax.
 </p>
 
-![Electron](https://img.shields.io/badge/Electron-28-blue)
-![React](https://img.shields.io/badge/React-18-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## 🚀 Overview
@@ -113,32 +110,6 @@ Download generated queries as `.sql` files.
 ## ✅ Offline Desktop Application
 
 Works completely offline as a native desktop application.
-
----
-
-# 🖥️ Screenshots
-
-## Home Dashboard
-
-<img src="./screenshots/dashboard.png" alt="Dashboard Screenshot" />
-
----
-
-## SQL Generator
-
-<img src="./screenshots/sql-generator.png" alt="SQL Generator Screenshot" />
-
----
-
-## Query Conversion
-
-<img src="./screenshots/query-conversion.png" alt="Query Conversion Screenshot" />
-
----
-
-## Query Optimization
-
-<img src="./screenshots/query-optimization.png" alt="Query Optimization Screenshot" />
 
 ---
 
